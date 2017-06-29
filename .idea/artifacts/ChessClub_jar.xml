@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChessClub:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChessClub_jar</output-path>
+    <root id="archive" name="ChessClub.jar">
+      <element id="module-output" name="ChessClub" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../Jars/mailactivation/activation.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../Jars/commons-codec-1.10/commons-codec-1.10.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../Jars/db-derby-10.13.1.1-lib/lib/derbyclient.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../../Jars/mailactivation/mail.jar" />
+    </root>
+  </artifact>
+</component>
